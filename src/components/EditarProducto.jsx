@@ -23,6 +23,7 @@ const EditarProducto = () => {
   // llenar el state automaticamante
   useEffect( () => {
     setProducto(productoeditar);
+    //eslint-disable-next-line
   }, []);
 
   // Leer los datos del formulario
