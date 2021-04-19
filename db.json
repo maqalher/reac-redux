@@ -1,0 +1,39 @@
+{
+  "productos": [
+    {
+      "id": 1,
+      "nombre": "Jugo de Zanahoria",
+      "precio": "15"
+    },
+    {
+      "id": 2,
+      "nombre": "Jugo de Naranja",
+      "precio": "50"
+    },
+    {
+      "nombre": "Jugo de Naranja",
+      "precio": "350",
+      "id": 3
+    },
+    {
+      "nombre": "Rib Eye 800g",
+      "precio": "200",
+      "id": 4
+    },
+    {
+      "nombre": "Jugo de Fresa",
+      "precio": "200",
+      "id": 5
+    },
+    {
+      "nombre": "Coca",
+      "precio": 30,
+      "id": 9
+    },
+    {
+      "nombre": "Queso",
+      "precio": 20,
+      "id": 13
+    }
+  ]
+}
